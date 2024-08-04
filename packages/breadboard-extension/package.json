@@ -193,7 +193,7 @@
     "@google-labs/template-kit": "^0.3.2",
     "@types/node": "^20.14.2",
     "@types/vscode": "^1.90.0",
-    "@vscode/debugadapter": "^1.65.0",
+    "@vscode/debugadapter": "^1.66.0",
     "@vscode/vsce": "^2.26.1",
     "dotenv": "^16.4.5",
     "esbuild": "^0.21.5",
